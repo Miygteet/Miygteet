@@ -1,4 +1,8 @@
 ## Hi there 👋
+I do malware hunting looking for malware that infects and harms your computer on github (i am looking to become a github staff member) just DM me on discord using my linktree
+
+![Discord Username](https://img.shields.io/badge/Discord%20Username-alexander__vadala-8A2BE2?logo=discord)
+![People Helped](https://img.shields.io/badge/Helped-0-dark%20green?style=flat&logo=2fas)
 
 <!--
 **Miygteet/Miygteet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
