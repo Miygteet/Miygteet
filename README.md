@@ -3,6 +3,7 @@ I do malware hunting, looking for malware that infects and harms your computer o
 
 ![Discord Username](https://img.shields.io/badge/Discord%20Username-alexander__vadala-8A2BE2?logo=discord)
 ![People Helped](https://img.shields.io/badge/Helped-0-dark%20green?style=flat&logo=2fas)
+![Malware Reported](https://img.shields.io/badge/Malware%20Reported-1-dark%20green?style=flat&logo=2fas)
 
 <!--
 **Miygteet/Miygteet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
